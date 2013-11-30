@@ -5,9 +5,9 @@ usage MimeTeX for insert math formulas in MediaWiki
 
 Usage
 =====
-
-<math>E=mc^2</math>
-
+```
+ <math>E=mc^2</math>
+```
 Installations
 =============
 
