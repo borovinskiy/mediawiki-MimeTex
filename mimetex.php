@@ -1,5 +1,6 @@
 <?php
  
+ 
 $wgExtensionFunctions[] = "MimetexExtension";
  
 function MimetexExtension() {
